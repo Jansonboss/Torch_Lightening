@@ -37,6 +37,8 @@ class Money:
     def cents(self, new_cents):
         self.total_cents = 100 * self.dollars + new_cents
 
+    def add(x: float, y:float):
+        return sum(x, y)
 
 if __name__ == "__main__":
     coins = Money(10, 120)
