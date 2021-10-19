@@ -39,6 +39,9 @@ class Money:
 
     def add(*argv):
         return sum(i for i in argv)
+    
+    def add2(yourMoney):
+        print(yourMoney)
 
 if __name__ == "__main__":
     coins = Money(10, 120)
