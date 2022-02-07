@@ -40,7 +40,7 @@ class Money:
     def add(*argv):
         return sum(i for i in argv)
     
-    def add2(yourMoney):
+    def add2(yourMoney, more_parameter):
         print(yourMoney)
 
 if __name__ == "__main__":
