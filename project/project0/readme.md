@@ -1,0 +1,1 @@
+https://www.ravirajag.dev/blog/mlops-project-setup-part1
